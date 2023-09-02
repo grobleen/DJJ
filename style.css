@@ -1,0 +1,34 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin:0px;
+}
+.note{
+font-size: 15px;
+color: black;
+}
+body{
+background-size: cover;
+}
+.div_speed{
+float: left;
+}
+.speed_imagen,.volumen_imagen{
+width: 200px;
+border-radius: 100px;
+}
+#velocidad,#volumen{
+font-size: 23px;
+margin:15px;
+}
+.div_volumen{
+float: right;
+}
+.boton_play{
+width: 130px;
+font-size: 25px;
+}
+canvas{
+border: 5px solid blueviolet;
+border-radius: 20px;
+}
